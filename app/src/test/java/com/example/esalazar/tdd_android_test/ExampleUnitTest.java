@@ -1,8 +1,10 @@
 package com.example.esalazar.tdd_android_test;
 
+import com.example.esalazar.tdd_android_test.Logic.TestClass1;
+
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
